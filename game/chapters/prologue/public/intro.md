@@ -1,5 +1,7 @@
 # Introduction
 
 ## Background
-In the year 19 BBY, a small group of padawans, escorted by [TODO], have been sent to arrest a kubaz on suspicion of selling arms to separatists.
+In the year 19 BBY, a small group of padawans, escorted by [TODO], have been sent to arrest a
+ [kubaz](https://github.com/efortner/force-and-destiny-1/blob/main/game/characters/hao_norlove.md) on suspicion of
+ selling arms to separatists.
 
