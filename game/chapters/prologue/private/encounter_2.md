@@ -15,7 +15,7 @@ shooting at them.
 make it through the door before it closes, prompting a fight.
 
 ## Loot
-None.
+Players can find a nearly limitless supply of blaster pistols and reloads. Take 1 conflict per blaster pistol looted.
 
 ## Contingencies
 ### If the players don't close the door
@@ -23,3 +23,8 @@ None.
 
 ### If the players don't go through the blast door
 The roof is glass and can be broken by flying into it.
+
+## Encounters
+* [Encounter 1](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_1.md)
+* [Encounter 2](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_2.md)
+* [Encounter 3](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_3.md)
