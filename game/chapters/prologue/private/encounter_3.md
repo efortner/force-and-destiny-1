@@ -16,6 +16,9 @@ N/A
 
 ## Contingencies
 
+## Prologue Rewards
+If players escape Coruscant, they will receive 120 XP and 1200 credits each. They spend the next seven years on Kubindi.
+
 ## Encounters
 * [Encounter 1](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_1.md)
 * [Encounter 2](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_2.md)

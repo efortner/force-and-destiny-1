@@ -18,9 +18,9 @@ unaffected.
 
 ## Loot
 There are two storage rooms behind two blast doors (can be sliced or destroyed in the same way as the above door).
+Any player characters that are involved with looting gains 1 conflict.
 * First room: Credit chips totalling 300 credits
 * Second room: Credit chips totalling 350 credits
-Any player characters that are involved with looting gains 1 conflict.
 
 ## Contingencies
 ### If players attempt to destroy the ship on the roof
