@@ -4,7 +4,7 @@
 
 ## Location
 After defeating the ARC trooper, the players will quickly catch up with 
-[Norlove](https://github.com/efortner/force-and-destiny-1/blob/main/game/characters/hao_norlove.md), who is making his
+[Norlove](../../../characters/npcs/hao_norlove.md), who is making his
 escape.
 
 ## Events
@@ -20,6 +20,6 @@ N/A
 If players escape Coruscant, they will receive 120 XP and 1200 credits each. They spend the next seven years on Kubindi.
 
 ## Encounters
-* [Encounter 1](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_1.md)
-* [Encounter 2](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_2.md)
-* [Encounter 3](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_3.md)
+* [Encounter 1](encounter_1.md)
+* [Encounter 2](encounter_2.md)
+* [Encounter 3](encounter_3.md)

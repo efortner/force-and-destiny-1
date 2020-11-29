@@ -1,6 +1,6 @@
 # Ghost Spider
-* Live in the [Silver Forest of Dreams](../locations/silver_forest.md).
-* Paralyzing injection available in [Fezz](../locations/fezz.md) for 50 cr/dose (1 dose lasts for month). Paralyzing
+* Live in the [Silver Forest of Dreams](../../locations/silver_forest.md).
+* Paralyzing injection available in [Fezz](../../locations/fezz.md) for 50 cr/dose (1 dose lasts for month). Paralyzing
 bite will deal standard brawl damage with no modifiers.
 
 ## Stat Block (RIVAL)

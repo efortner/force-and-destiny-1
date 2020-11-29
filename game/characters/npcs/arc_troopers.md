@@ -1,5 +1,5 @@
 # Advanced Recon Commando Troopers
-![ARC Trooper](.image/arc_trooper.jpg)
+![ARC Trooper](../.image/arc_trooper.jpg)
 
 ## Biography
 ARC troopers are the most skilled and elite clone troopers.

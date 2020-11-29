@@ -7,6 +7,7 @@
 * Maneuvers - pp. 207 - 209
 * Triumphs, advantage, disadvantage, and despair - p. 212
 * Morality and Conflict - p. 51
+* Galaxy Map - pp. 348 - 349
 
 ## Vehicular
 * Critical Hits - p. 250

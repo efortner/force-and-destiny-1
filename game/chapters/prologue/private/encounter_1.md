@@ -2,11 +2,11 @@
 ## Flavor Text
 You arrive outside a dilapidated building in a low rise warehouse district. This is a low traffic part of the city
 with very few ships passing overhead and no ground level traffic. You arrive with two Republic gunships, each containing
-six [ARC troopers](https://github.com/efortner/force-and-destiny-1/blob/main/game/characters/arc_troopers.md). The
+six [ARC troopers](../../../characters/npcs/arc_troopers.md). The
 warehouse only appears to have one entrance at ground level. A starship is landed on the roof.
 
 ## Location
-Outside of a low rise building in a low rise, rundown district. There is a [starship](https://github.com/efortner/force-and-destiny-1/blob/main/game/vessels/norlove_ship.md)
+Outside of a low rise building in a low rise, rundown district. There is a [starship](../../../vessels/norlove_ship.md)
 landed on top of the building.
 
 ## Events
@@ -32,6 +32,6 @@ Play will progress normally, but players will need to retreat back from where th
 enter through the main entrance.
 
 ## Encounters
-* [Encounter 1](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_1.md)
-* [Encounter 2](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_2.md)
-* [Encounter 3](https://github.com/efortner/force-and-destiny-1/blob/main/game/chapters/prologue/private/encounter_3.md)
+* [Encounter 1](encounter_1.md)
+* [Encounter 2](encounter_2.md)
+* [Encounter 3](encounter_3.md)
