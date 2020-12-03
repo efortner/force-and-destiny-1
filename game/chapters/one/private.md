@@ -35,4 +35,4 @@ the rest. All buildings are completely overgrown with moss and creeping vines.
 Inside the center building, the players feel a strong Dark presence. They are ambushed by dark clones of themselves
 (stat block Fallen Apprentice, p. 412). These Force clones deal all damage as strain but take wounds and strain as normal.
 They dissolve on death or unconscious. Once all are defeated, the [holocron](../../gear/vidi_holocron.md) will manifest.
-Obtaining the holocron triggers a disturbance in the Force, which is felt by the Inquisitorious.
+Obtaining the holocron triggers a disturbance in the Force, which is felt by the Inquisitorius.
