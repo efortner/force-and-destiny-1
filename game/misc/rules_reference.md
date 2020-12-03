@@ -15,3 +15,13 @@
 * Actions - pp. 240 - 241
 * Maneuvers - pp. 238 - 239
 * Triumphs, advantage, disadvantage, and despair - p. 243
+
+
+Slavers - 3 S, 1 T
+Nathan - 1 S, 1 A
+Philip - 3 S, 3 A
+
+--
+--10 (crippled right arm)
+15 (surrender)
+--
