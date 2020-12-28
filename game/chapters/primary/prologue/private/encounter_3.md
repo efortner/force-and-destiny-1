@@ -4,7 +4,7 @@
 
 ## Location
 After defeating the ARC trooper, the players will quickly catch up with 
-[Norlove](../../../characters/npcs/hao_norlove.md), who is making his
+[Norlove](../../../../characters/npcs/hao_norlove.md), who is making his
 escape.
 
 ## Events
