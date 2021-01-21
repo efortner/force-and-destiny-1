@@ -29,6 +29,7 @@ This holocron will help you continue your training as well as help fund your end
 Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
 * Bror
+* Wolf
 
 ### Move 2 (Cost: 1 Force pip)
 Unlocks one power from the Move Force Power Tree (p. 298).
