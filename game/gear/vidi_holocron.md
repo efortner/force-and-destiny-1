@@ -2,7 +2,7 @@
 
 ## Description
 A Sith holocron containing the knowledge of Darth Vidi. It was intended as a gift for his apprentice.
-This holocron can only be opened using Dark Side Force pips. The holocron can be opened by one character one time
+This holocron can use either Light or Dark side pips, but each pip costs a conflict. The holocron can be opened by one character one time
 every session. If a character fails their check to open the holocron, another character may attempt to open the
 holocron this session. Every attempt, regardless of result, costs 1 conflict.
 
