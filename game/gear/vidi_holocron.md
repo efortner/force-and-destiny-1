@@ -116,8 +116,13 @@ Unlocks one power from the Protect/Unleash Force Power Tree (p. 300)
 #### Claimed By
 * [NO ONE]
 
-### Side Mission 1 (Cost: 1 Force pip)
-Unlocks a side mission that yields a valuable reward
+### Side Mission 1
+A side mission that yields a valuable reward
 #### Rewards
 * Beskar
 * Imperial Salvage
+
+### Side Mission 2
+A side mission that yields a valuable reward
+#### Rewards
+* Krayt Dragon Pearl(s)
