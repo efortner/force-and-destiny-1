@@ -40,7 +40,7 @@ Unlocks one power from the Move Force Power Tree (p. 298).
 ### Move 3 (Cost: 1 Force pip)
 Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
-* [NO ONE]
+* Bror
 
 ### Move 4 (Cost: 2 Force pips)
 Unlocks one power from the Move Force Power Tree (p. 298).

@@ -1,15 +1,10 @@
-5 Stormtroopers and a an Imperial Sergeant
+S1 - 2 success
 
-Sergeant - 1 Success, 3 adv
-Stormtroopers - 0 S, 4 adv
+Nathan - 1 success
+Philip - 1 Adv
+Brent - 3 success / 1 adv
 
-(Enemy)
-(Player)
-(Player)
-(Player)
-(Enemy)
-
-Sergeant - --
-Stormtroopers --
-
-Players are parked close to the dig site. Have engaged one group of Imperials.
+(Team)
+(S1)
+(Team)
+(Team)
