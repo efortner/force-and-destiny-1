@@ -36,6 +36,7 @@ Unlocks one power from the Move Force Power Tree (p. 298).
 Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
 * Bror
+* Wolf
 
 ### Move 3 (Cost: 1 Force pip)
 Unlocks one power from the Move Force Power Tree (p. 298).
