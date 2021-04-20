@@ -66,7 +66,7 @@ Unlocks one power from the Bind Force Power Tree (p. 286).
 ### Bind 2 (Cost: 3 Force pips)
 Unlocks one power from the Bind Force Power Tree (p. 286).
 #### Claimed By
-* [NO ONE]
+* Kal
 
 ### Bind 3 (Cost: 3 Force pips)
 Unlocks one power from the Bind Force Power Tree (p. 286).
