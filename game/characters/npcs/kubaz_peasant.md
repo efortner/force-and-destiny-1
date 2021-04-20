@@ -10,7 +10,9 @@ Orphan, 16 years old. Street urchin. Youngest member of now dead gang. Keeps cam
 |-----|-------|---------|-------|---------|--------
 |3|3|1|3|2|1
 
-Skills: Coercion 2, Melee 2, Ranged (Light) 2,  Vigilance 2
+* Skills: Coercion 2, Melee 2, Ranged (Light) 2,  Vigilance 2
+* Soak: 5 (Padded Armor + Brawn)
+* Equipment: Blaster Rifle (Ranged Heavy), Damage 9/Crit 3/Range Long
 
 ## Character Sheet
 https://swsheets.com/c/cvyu90cxh-t-cori-oran
