@@ -29,7 +29,7 @@ defeating her,
 * 3 groups of 3 Stormtroopers (F&D p. 407)
 
 ### Wave 2
-* 2 Death Troopers
+* 4 Death Troopers (A&A p. 43)
 
 ### Wave 3
 * Inquisitor
