@@ -49,6 +49,7 @@ Unlocks one power from the Move Force Power Tree (p. 298).
 Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
 * Bror
+* Wolf
 
 ### Move 5 (Cost: 2 Force pips)
 Unlocks one power from the Move Force Power Tree (p. 298).
