@@ -59,7 +59,7 @@ Unlocks one power from the Move Force Power Tree (p. 298).
 ### Move 6 (Cost: 2 Force pips)
 Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
-* [No ONE]
+* Bror
 
 ### Bind 1 (Cost: 3 Force pips)
 Unlocks one power from the Bind Force Power Tree (p. 286).
