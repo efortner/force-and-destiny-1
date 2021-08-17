@@ -44,6 +44,7 @@ Unlocks one power from the Move Force Power Tree (p. 298).
 #### Claimed By
 * Bror
 * Wolf
+* Kal
 
 ### Move 4 (Cost: 2 Force pips)
 Unlocks one power from the Move Force Power Tree (p. 298).

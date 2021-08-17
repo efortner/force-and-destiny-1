@@ -16,3 +16,6 @@ equipped spaceport. If the players choose to do this themselves, it will be a di
 that can be performed only with the proper equipment and only once per session. A discrete mechanic will
 perform this task for 1000-2000 credits. The shuttle will casually appear friendly to Imperial forces, but with any
 scrutiny, they will realize that this vessel is stolen.
+
+## Notes
+The players had their location pinger disabled on Lantillies for 1,500 Cr.
