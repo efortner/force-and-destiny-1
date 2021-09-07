@@ -8,7 +8,7 @@ Lantillies
 P-8
 
 ## Potential Rewards
-* 3,000 Cr
+* 2,000 Cr / ea
 ## Encounters
 
 ### Synopsis
