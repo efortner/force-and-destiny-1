@@ -22,6 +22,7 @@ will try to pursuade the characters to instead ensure that no survivors are foun
 
 ### Encounter 2
 * 1 Rancor (A&A p. 134)
+* Rancor has Cortosis weave armor, giving it a total soak of 15.
 * Players can choose to sneak around, there's a cave entrance it can't fit in behind.
 
 ### Encounter 3
