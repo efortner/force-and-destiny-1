@@ -1,5 +1,5 @@
 # "Evie"
-![ship](.image/lambda.png)
+![ship](images/lambda.png)
 
 # Make and Model
 Lambda-Class T4-A Long-Range Shuttle
