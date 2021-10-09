@@ -8,6 +8,8 @@ Sith temples feature multiple waves of enemies of increasing difficulty culminat
 * If all player characters are killed, they are returned to the beginning of the temple with 0 wounds and 0 strain.
 * Critical Injuries sustained during the raid are _not_ healed.
 * Player earn 5 XP per round regardless of whether they successfully finish the temple.
+* On the start of each wave of enemies, all creatures roll initiative based on _either_ Vigilance or Cool.
+* After players have defeated all enemies in a wave, they will get one full round before the next wave begins.
 
 ## Rewards
 On completion players must _immediately_ choose one of the following rewards:
