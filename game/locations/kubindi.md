@@ -1,5 +1,5 @@
 # Kubindi
-![Kubindi](.image/kubindi.jpg)
+![Kubindi](images/kubindi.jpg)
 
 ## Grid Coordinates
 T-9

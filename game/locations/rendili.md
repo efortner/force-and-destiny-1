@@ -1,5 +1,5 @@
 # Rendili
-![Rendili](.image/rendili.png)
+![Rendili](images/rendili.png)
 ## Grid Coordinates
 M-11
 

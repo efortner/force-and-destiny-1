@@ -1,5 +1,5 @@
 # Hao Norlove's Ship
-![ship](.image/action_vi_bulk_transport.jpg)
+![ship](images/action_vi_bulk_transport.jpg)
 
 ## Make and Model
 Action VI Bulk Transport

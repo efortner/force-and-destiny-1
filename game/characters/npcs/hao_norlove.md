@@ -1,5 +1,5 @@
 # Hao Norlove
-![Hao Norlove](../.image/kubaz.png)
+![Hao Norlove](../images/kubaz.png)
 
 ## Biography
 Hao Norlove is a kubaz doctor from the planet [Kubindi](../../locations/kubindi.md) who relocated to Coruscant shortly after the Clone Wars began.
